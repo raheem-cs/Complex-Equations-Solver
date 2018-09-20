@@ -59,7 +59,7 @@ The two matlab scripts: [twoequations.m](https://www.dropbox.com/s/qr8qtyzduluag
 
 #### Hidden feature:
 
-- After you enter the value in the text area field, press enter key and it will go to the next field ;). This feature suggested by one my friend (Abdelrahman Gamal - He inspired me with good ideas but was lazy and didn't this code with me) thanks to him.
+- After you enter the value in the text area field, press enter key and it will go to the next field ;). This feature suggested by one my friend (Abdelrahman Gamal - He inspired me with good ideas but was lazy and didn't code this with me) thanks to him.
 
 #### Can we extent this to 4×4, 5×5...?:
 
