@@ -1,0 +1,4 @@
+# Ignore all files, just consider .java aims to fix wrong repository language detection
+
+* linguist-vendored
+*.java linguist-vendored=false
