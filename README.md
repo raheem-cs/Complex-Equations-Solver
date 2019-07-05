@@ -36,7 +36,7 @@ I used [Launch4j](https://sourceforge.net/projects/launch4j/ "Launch4j") to gene
 > `(3)   X + (-1i) Y = (-4-2i)`
 
 - You should enter them like in this photo:
-> <img src="https://www.gulf-up.com/i/00071/walmpaevrire.png" width="250">
+> <img src="https://www6.0zz0.com/2019/07/05/22/883637956.png" width="250">
 
 #### Verify with Matlab:
 
@@ -44,18 +44,18 @@ I used [Launch4j](https://sourceforge.net/projects/launch4j/ "Launch4j") to gene
 The two matlab scripts: [twoequations.m](https://www.dropbox.com/s/qr8qtyzduluagpy/twoequations.m?dl=1 "twoequations.m"), [threeequations.m](https://www.dropbox.com/s/26ta0ajwukw16u0/threeequations.m?dl=1 "threeequations.m")
 
 - OK here matlab results:
-> <img src="https://www.gulf-up.com/i/00071/dytfu6fvex22.png" width="250">
-> <img src="https://www.gulf-up.com/i/00071/vqhvhj6s3igd.png" width="250">
+> <img src="https://www3.0zz0.com/2019/07/05/22/653387698.png" width="250">
+> <img src="https://www10.0zz0.com/2019/07/05/22/901335953.png" width="250">
 
 - And here our software results:
-> <img src="https://www.gulf-up.com/i/00071/fjs8vcuf3b6q.png" width="250">
-> <img src="https://www.gulf-up.com/i/00071/0em2pfjjhvvk.png" width="250">
+> <img src="https://www3.0zz0.com/2019/07/05/22/991316115.png" width="250">
+> <img src="https://www10.0zz0.com/2019/07/05/22/543465419.png" width="250">
 
 #### UML Diagram for Complex, ComplexMatrix classes:
 
 - You can use these classes in any other software if you need. I think these two classes have good and enough things for dealing with complex numbers. And here is the UML diagrams for these two classes:
-> <img src="https://www.gulf-up.com/i/00071/j15hhhi944h6.png" width="250">
-> <img src="https://www.gulf-up.com/i/00071/jtut96tqurhw.png" width="250">
+> <img src="https://www13.0zz0.com/2019/07/05/22/846593228.png" width="250">
+> <img src="https://www13.0zz0.com/2019/07/05/22/696160542.png" width="250">
 
 #### Hidden feature:
 
